@@ -1,0 +1,10 @@
+{
+  "Email": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='email']"
+  },
+  "Password": {
+    "GetFieldBy": "cssSelector",
+    "ValueToFind": "#passwd"
+  }
+}
